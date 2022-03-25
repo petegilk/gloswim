@@ -29,7 +29,8 @@
 
 #navbar {
   /* border: 1px solid red; */
-  width: 80%;
+  background-color: rgba(255, 255, 255, 0.253);
+  width: 100%;
   border-bottom:2px solid blanchedalmond;
   display: flex;
   justify-content: space-between;
